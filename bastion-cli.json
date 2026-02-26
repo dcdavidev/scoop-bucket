@@ -1,21 +1,21 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dcdavidev/bastion/releases/download/v0.2.0/bastion_windows_amd64.zip",
+            "url": "https://github.com/dcdavidev/bastion/releases/download/v0.3.1/bastion_windows_amd64.zip",
             "bin": [
                 "bastion-cli.exe",
                 "bastion-server.exe"
             ],
-            "hash": "cb5ef1886f76343d00fdf6c6f24e813a71bb263ff9ecf18feb1fb04e7a874bf3"
+            "hash": "4000717c605fb5a3f711a33a6ddcef9602c72c6460c6149b0adf1c12d60a2668"
         },
         "arm64": {
-            "url": "https://github.com/dcdavidev/bastion/releases/download/v0.2.0/bastion_windows_arm64.zip",
+            "url": "https://github.com/dcdavidev/bastion/releases/download/v0.3.1/bastion_windows_arm64.zip",
             "bin": [
                 "bastion-cli.exe",
                 "bastion-server.exe"
             ],
-            "hash": "1853ba032fd18a396c56349841952b8d7a582494e7f7e3e832d854b0e7941a7e"
+            "hash": "d39fd67f454b52855a520aa16b1bd76acbb8e30599338d7d6675e4b057483559"
         }
     },
     "homepage": "https://github.com/dcdavidev/bastion",
