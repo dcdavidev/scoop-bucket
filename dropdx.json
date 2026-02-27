@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dropdx/dropdx/releases/download/v0.2.0/dropdx_windows_amd64.zip",
+            "url": "https://github.com/dropdx/dropdx/releases/download/v0.3.1/dropdx_windows_amd64.zip",
             "bin": [
                 "dropdx.exe"
             ],
-            "hash": "39ce3efa3241e4ee826bee797029f5b0f0ee787cf57579f68c5fd75f492d75f8"
+            "hash": "c2587818fd55385707d07eb169f9b266b0c34d0b91b6e058d11f0f7dadaaefe8"
         },
         "arm64": {
-            "url": "https://github.com/dropdx/dropdx/releases/download/v0.2.0/dropdx_windows_arm64.zip",
+            "url": "https://github.com/dropdx/dropdx/releases/download/v0.3.1/dropdx_windows_arm64.zip",
             "bin": [
                 "dropdx.exe"
             ],
-            "hash": "36789fb9860f0737c40a6868b842b255e0eae697b851f05969d34554f27514af"
+            "hash": "93dff39548959fb06284d52015dfb0e176a2b825df051e14e8a10addda7d4b21"
         }
     },
     "homepage": "https://github.com/dropdx/dropdx",
